@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## 7/14/2018
 
-You can use the [editor on GitHub](https://github.com/johnstoecker/lanparty.app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+LAN party at John's house, right around the corner from University + Dwight Streets in SF. We will play these games:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## DOTA
 
-### Markdown
+It's the mother of all MOBAs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Counter-strike Global Offensive
 
-```markdown
-Syntax highlighted code block
+Bomb has been planted.
 
-# Header 1
-## Header 2
-### Header 3
+### FAQ
 
-- Bulleted
-- List
+**What's the deal?**
+Bring your comp or laptop. We'll play some games at my place. Be my friend on steam, I'm `strangercannon`
 
-1. Numbered
-2. List
+**Is it okay to suck?**
+Yes, I am the absolute worst at DOTA. I once tried to play online and the kids there are so mean. The mean-ness of high-schoolers online is directly inverse to skill, so now you know what you are working with. I also have never played CS:GO in my life (but played a little CS back in the day)
 
-**Bold** and _Italic_ and `Code` text
+**Will I have fun?**
+Absolute fun is guaranteed or your money back*
 
-[Link](url) and ![Image](src)
-```
+*You will get no money so don't even start with me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/johnstoecker/lanparty.app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Who all is coming?**
+Dude I dont even know just come on over and let's play some games
